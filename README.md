@@ -14,3 +14,7 @@
 
 ### Containers
 - Docker
+
+
+### Gerenciamento de Pacotes
+- Yarn
